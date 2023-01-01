@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tpI3FJOTGLFMHv2gslwsjWJVGKhpzKp5ZjX9UyRax4c=",
+  "Source": "webapi-net6-errorhandling",
+  "BasePath": "_content/webapi-net6-errorhandling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
